@@ -49,8 +49,9 @@
                     <select class="custom-select my-1 mr-sm-2" id="inlineFormCustomSelectPref">
                         <option selected>Pilih Jabatan...</option>
                         <option value="1">Kepala Sekolah</option>
-                        <option value="2">Guru</option>
-                        <option value="3">Staf Tata Usaha</option>
+                        <option value="2">Guru Matematika</option>
+                        <option value="3">Guru</option>
+                        <option value="4">Staf Tata Usaha</option>
                     </select>
                     {{-- <form>
                       <div class="form-group">
