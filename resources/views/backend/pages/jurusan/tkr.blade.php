@@ -88,7 +88,7 @@
                     </form>
                     <form>
                       <div class="form-group">
-                          <label for="message-text" class="col-form-label">Image Slider</label>
+                          <label for="message-text" class="col-form-label">Foto</label>
                           <div class="input-group mb-3">
                               <div class="input-group-prepend">
                                 <span class="input-group-text">Upload</span>

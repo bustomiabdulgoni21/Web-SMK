@@ -49,9 +49,22 @@
                     <select class="custom-select my-1 mr-sm-2" id="inlineFormCustomSelectPref">
                         <option selected>Pilih Jabatan...</option>
                         <option value="1">Kepala Sekolah</option>
-                        <option value="2">Guru Matematika</option>
-                        <option value="3">Guru</option>
-                        <option value="4">Staf Tata Usaha</option>
+                        <option value="2">Waka. Kurikulum</option>
+                        <option value="3">Waka. Kesiswaan</option>
+                        <option value="4">Waka. Hubin</option>
+                        <option value="5">Waka. Humas</option>
+                        <option value="6">Ka. Prog Pemesinan</option>
+                        <option value="7">Ka. Prog Kendaraan Ringan</option>
+                        <option value="8">Ka. Tata Usaha</option>
+                        <option value="9">Bendahara</option>
+                        <option value="10">Staf Tata Usaha</option>
+                        <option value="11">Juru Bengkel TPM</option>
+                        <option value="12">Juru Bengkel TKR</option>
+                        <option value="13">Pembina OSIS</option>
+                        <option value="14">Pembina ROHIS</option>
+                        <option value="15">Pembina PRAMUKA</option>
+                        <option value="16">Pembina Olahraga</option>
+                        <option value="17">Koordinator BK/ BP</option>
                     </select>
                     {{-- <form>
                       <div class="form-group">
