@@ -17,6 +17,7 @@
   <!-- SimpleMDE -->
   <link rel="stylesheet" href="{{ asset('templates/backend') }}/plugins/simplemde/simplemde.min.css">
 @endpush --}}
+
      
 @section('content')
     <!-- Content Wrapper. Contains page content -->

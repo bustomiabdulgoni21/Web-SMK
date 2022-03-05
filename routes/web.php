@@ -23,10 +23,10 @@ Route::get('/team', function () {
     return view('pages.team');
 });
 Route::get('/image-tpm', function () {
-    return view('pages.galery.image-tpm');
+    return view('pages.galery.tpm.image-tpm');
 });
 Route::get('/image-tkr', function () {
-    return view('pages.galery.image-tkr');
+    return view('pages.galery.tkr.image-tkr');
 });
 Route::get('/jurusan-tpm', function () {
     return view('pages.jurusan.jurusan-tpm');
@@ -40,14 +40,23 @@ Route::get('/alumni', function () {
 Route::get('/admin', function () {
     return view('backend.pages.dashboard');
 });
+
 Route::get('/visi', function () {
-    return view('backend.pages.profile.visi');
+    return view('backend.pages.profile.visi.visi');
 });
+Route::get('/visi-create', function () {
+    return view('backend.pages.profile.visi.create');
+});
+
 Route::get('/misi', function () {
-    return view('backend.pages.profile.misi');
+    return view('backend.pages.profile.misi.misi');
 });
+Route::get('/misi-create', function () {
+    return view('backend.pages.profile.misi.misi-create');
+});
+
 Route::get('/tujuan', function () {
-    return view('backend.pages.profile.tujuan');
+    return view('backend.pages.profile.tujuan.tujuan');
 });
 Route::get('/jurusan', function () {
     return view('backend.pages.jurusan');
@@ -68,22 +77,25 @@ Route::get('/contact-person', function () {
     return view('backend.pages.contact');
 });
 Route::get('/manage-user', function () {
-    return view('backend.pages.settings.manageuser');
+    return view('backend.pages.settings.user-settings.manageuser');
+});
+Route::get('/add-manage-user', function () {
+    return view('backend.pages.settings.user-settings.adduser');
 });
 Route::get('/header', function () {
-    return view('backend.pages.settings.header');
+    return view('backend.pages.settings.header.header');
 });
 Route::get('/footer', function () {
-    return view('backend.pages.settings.footer');
+    return view('backend.pages.settings.footer.footer');
 });
 Route::get('/sosmed', function () {
-    return view('backend.pages.settings.sosmed');
+    return view('backend.pages.settings.sosmed.sosmed');
 });
 Route::get('/jurusantpm', function () {
-    return view('backend.pages.jurusan.tpm');
+    return view('backend.pages.jurusan.tpm.tpm');
 });
 Route::get('/jurusantkr', function () {
-    return view('backend.pages.jurusan.tkr');
+    return view('backend.pages.jurusan.tkr.tkr');
 });
 
 Route::resource('/', HomeController::class);

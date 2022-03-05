@@ -32,7 +32,7 @@
         <i class="bi bi-list mobile-nav-toggle d-none"></i>
       </nav><!-- .navbar -->
 
-      <a class="btn-getstarted scrollto" href="{{ url('templates/backend/login.html') }}">Login</a>
+      <a class="btn-getstarted scrollto" href="{{ url('/admin') }}">Login</a>
 
     </div>
   </header><!-- End Header -->

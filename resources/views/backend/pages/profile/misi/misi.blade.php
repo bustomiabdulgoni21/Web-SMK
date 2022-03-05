@@ -28,8 +28,9 @@
          <div class="col-sm-6">
            {{-- <h1 class="m-0">Visi</h1> --}}
            {{-- modals --}}
-           <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModal" data-whatever="@mdo">Tambah</button>
-           <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+           <a class="btn btn-primary" href="{{ url('misi-create') }}" role="button">Tambah</a>
+
+           {{-- <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
              <div class="modal-dialog" role="document">
                <div class="modal-content">
                  <div class="modal-header">
@@ -45,7 +46,7 @@
                          <div class="card card-outline card-info">
                            <div class="card-body">
                              <textarea id="summernote">
-                               {{-- <strong>Ketikan Visi SMK Ash Shoheh 1</strong> --}}
+                               
                              </textarea>
                            </div>
                          </div>
@@ -56,16 +57,7 @@
                      
                      <!-- ./row -->
                    </section>
-                   {{-- <form>
-                     <div class="form-group">
-                       <label for="recipient-name" class="col-form-label">Visi Sekolah</label>
-                       <input type="text" class="form-control" id="recipient-name">
-                     </div>
-                     <div class="form-group">
-                       <label for="message-text" class="col-form-label">Message:</label>
-                       <textarea class="form-control" id="message-text"></textarea>
-                     </div>
-                   </form> --}}
+                   
                  </div>
                  <div class="modal-footer">
                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Keluar</button>
@@ -73,8 +65,7 @@
                  </div>
                </div>
              </div>
-           </div>
-           {{-- end modals --}}
+           </div> --}}
          </div><!-- /.col -->
          <div class="col-sm-6">
            <ol class="breadcrumb float-sm-right">

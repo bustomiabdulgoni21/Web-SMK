@@ -47,7 +47,7 @@
                     </form>
                     <form>
                       <div class="form-group">
-                        <label for="recipient-name" class="col-form-label">Istagram</label>
+                        <label for="recipient-name" class="col-form-label">Instagram</label>
                         <input type="text" class="form-control" id="recipient-name">
                       </div>
                     </form>
@@ -363,7 +363,7 @@
           <tr>
             <th scope="col">#</th>
             <th scope="col">Facebook</th>
-            <th scope="col">Istagram</th>
+            <th scope="col">Instagram</th>
             <th scope="col">Youtube</th>
             <th scope="col">Telegram</th>
             <th scope="col">Whatsapp</th>

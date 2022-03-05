@@ -13,15 +13,14 @@
       <div class="container">
         <div class="row justify-content-center gy-6">
 
-          <div class="col-lg-5 col-md-8">
-            <img src="{{ asset('templates/frontend') }}/assets/img/hero-carousel/hero-carousel-1.svg" alt="" class="img-fluid img">
+          <div class="col-lg-10 col-md-10">
+            <img src="{{ asset('templates/frontend') }}/assets/img/profile_1.png" alt="" class="img-fluid img">
           </div>
 
-          <div class="col-lg-9 text-center">
+          {{-- <div class="col-lg-9 text-center">
             <h2>Welcome to SMK Ash Shoheh 1</h2>
-            {{-- <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p> --}}
             <a href="#featured-services" class="btn-get-started scrollto ">Get Started</a>
-          </div>
+          </div> --}}
 
         </div>
       </div>
@@ -31,15 +30,15 @@
       <div class="container">
         <div class="row justify-content-center gy-6">
 
-          <div class="col-lg-5 col-md-8">
-            <img src="{{ asset('templates/frontend') }}/assets/img/hero-carousel/hero-carousel-2.svg" alt="" class="img-fluid img">
+          <div class="col-lg-10 col-md-10">
+            <img src="{{ asset('templates/frontend') }}/assets/img/profile_2.png" alt="" class="img-fluid img">
           </div>
 
-          <div class="col-lg-9 text-center">
+          {{-- <div class="col-lg-9 text-center">
             <h2>Teknik Pemesinan (TPM)</h2>
-            {{-- <p>Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut.</p> --}}
+            <p>Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut.</p>
             <a href="#featured-services" class="btn-get-started scrollto ">Get Started</a>
-          </div>
+          </div> --}}
 
         </div>
       </div>
@@ -49,15 +48,15 @@
       <div class="container">
         <div class="row justify-content-center gy-6">
 
-          <div class="col-lg-5 col-md-8">
-            <img src="{{ asset('templates/frontend') }}/assets/img/hero-carousel/hero-carousel-3.svg" alt="" class="img-fluid img">
+          <div class="col-lg-10 col-md-10">
+            <img src="{{ asset('templates/frontend') }}/assets/img/profile_3.png" alt="" class="img-fluid img">
           </div>
 
-          <div class="col-lg-9 text-center">
+          {{-- <div class="col-lg-9 text-center">
             <h2>Teknik Kendaraan Ringan (TKR)</h2>
-            {{-- <p>Beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt omnis iste natus error sit voluptatem accusantium.</p> --}}
+            <p>Beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt omnis iste natus error sit voluptatem accusantium.</p>
             <a href="#featured-services" class="btn-get-started scrollto ">Get Started</a>
-          </div>
+          </div> --}}
 
         </div>
       </div>
@@ -118,7 +117,7 @@
 
           <div class="col-lg-5">
             <div class="about-img">
-              <img src="{{ asset('templates/frontend') }}/assets/img/about.jpg" class="img-fluid" alt="">
+              <img src="{{ asset('templates/frontend') }}/assets/img/pak_zul.jpeg" class="img-fluid" alt="">
             </div>
           </div>
 
@@ -397,9 +396,9 @@
 
             <div class="swiper-slide">
               <div class="testimonial-item">
-                <img src="{{ asset('templates/frontend') }}/assets/img/testimonials/testimonials-1.jpg" class="testimonial-img" alt="">
-                <h3>Saul Goodman</h3>
-                <h4>Ceo &amp; Founder</h4>
+                <img src="{{ asset('templates/frontend') }}/assets/img/testimonials/iyan_suryana.jpg" class="testimonial-img" alt="">
+                <h3>Iyan Suryana, ST</h3>
+                <h4>ToolMan &amp; TPM</h4>
                 <div class="stars">
                   <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
                 </div>
@@ -482,93 +481,7 @@
       </div>
     </section><!-- End Testimonials Section -->
 
-    <!-- ======= Pricing Section ======= -->
-    {{-- <section id="pricing" class="pricing">
-      <div class="container" data-aos="fade-up">
-
-        <div class="section-header">
-          <h2>Our Pricing</h2>
-          <p>Architecto nobis eos vel nam quidem vitae temporibus voluptates qui hic deserunt iusto omnis nam voluptas asperiores sequi tenetur dolores incidunt enim voluptatem magnam cumque fuga.</p>
-        </div>
-
-        <div class="row gy-4">
-
-          <div class="col-lg-4" data-aos="zoom-in" data-aos-delay="200">
-            <div class="pricing-item">
-
-              <div class="pricing-header">
-                <h3>Free Plan</h3>
-                <h4><sup>$</sup>0<span> / month</span></h4>
-              </div>
-
-              <ul>
-                <li><i class="bi bi-dot"></i> <span>Quam adipiscing vitae proin</span></li>
-                <li><i class="bi bi-dot"></i> <span>Nec feugiat nisl pretium</span></li>
-                <li><i class="bi bi-dot"></i> <span>Nulla at volutpat diam uteera</span></li>
-                <li class="na"><i class="bi bi-x"></i> <span>Pharetra massa massa ultricies</span></li>
-                <li class="na"><i class="bi bi-x"></i> <span>Massa ultricies mi quis hendrerit</span></li>
-              </ul>
-
-              <div class="text-center mt-auto">
-                <a href="#" class="buy-btn">Buy Now</a>
-              </div>
-
-            </div>
-          </div><!-- End Pricing Item -->
-
-          <div class="col-lg-4" data-aos="zoom-in" data-aos-delay="400">
-            <div class="pricing-item featured">
-
-              <div class="pricing-header">
-                <h3>Business Plan</h3>
-                <h4><sup>$</sup>29<span> / month</span></h4>
-              </div>
-
-              <ul>
-                <li><i class="bi bi-dot"></i> <span>Quam adipiscing vitae proin</span></li>
-                <li><i class="bi bi-dot"></i> <span>Nec feugiat nisl pretium</span></li>
-                <li><i class="bi bi-dot"></i> <span>Nulla at volutpat diam uteera</spa>
-                </li>
-                <li><i class="bi bi-dot"></i> <span>Pharetra massa massa ultricies</spa>
-                </li>
-                <li><i class="bi bi-dot"></i> <span>Massa ultricies mi quis hendrerit</span></li>
-              </ul>
-
-              <div class="text-center mt-auto">
-                <a href="#" class="buy-btn">Buy Now</a>
-              </div>
-
-            </div>
-          </div><!-- End Pricing Item -->
-
-          <div class="col-lg-4" data-aos="zoom-in" data-aos-delay="600">
-            <div class="pricing-item">
-
-              <div class="pricing-header">
-                <h3>Developer Plan</h3>
-                <h4><sup>$</sup>49<span> / month</span></h4>
-              </div>
-
-              <ul>
-                <li><i class="bi bi-dot"></i> <span>Quam adipiscing vitae proin</span></li>
-                <li><i class="bi bi-dot"></i> <span>Nec feugiat nisl pretium</span></li>
-                <li><i class="bi bi-dot"></i> <span>Nulla at volutpat diam uteera</span></li>
-                <li><i class="bi bi-dot"></i> <span>Pharetra massa massa ultricies</span></li>
-                <li><i class="bi bi-dot"></i> <span>Massa ultricies mi quis hendrerit</span></li>
-              </ul>
-
-              <div class="text-center mt-auto">
-                <a href="#" class="buy-btn">Buy Now</a>
-              </div>
-
-            </div>
-          </div><!-- End Pricing Item -->
-
-        </div>
-
-      </div>
-    </section> --}}
-    <!-- End Pricing Section -->
+    
 
     <!-- ======= Portfolio Section ======= -->
 <section id="portfolio" class="portfolio" data-aos="fade-up">
@@ -856,7 +769,7 @@
       <div class="container" data-aos="fade-up">
 
         <div class="section-header">
-          <h2>Team</h2>
+          <h2>Teacher</h2>
           {{-- <p>Architecto nobis eos vel nam quidem vitae temporibus voluptates qui hic deserunt iusto omnis nam voluptas asperiores sequi tenetur dolores incidunt enim voluptatem magnam cumque fuga.</p> --}}
         </div>
 

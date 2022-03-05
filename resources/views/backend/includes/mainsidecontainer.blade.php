@@ -39,7 +39,7 @@
                 <a href="#" class="nav-link">
                   <i class="nav-icon fas fa-school"></i>
                   <p>
-                    Profil
+                    Profile
                     <i class="fas fa-angle-left right"></i>
                     {{-- <span class="badge badge-info right">6</span> --}}
                   </p>
@@ -79,13 +79,13 @@
                   <li class="nav-item">
                     <a href="/jurusantpm" class="nav-link">
                       <i class="far fa-circle nav-icon"></i>
-                      <p>Pemesinan (TPM)</p>
+                      <p>(TPM)</p>
                     </a>
                   </li>
                   <li class="nav-item">
                     <a href="/jurusantkr" class="nav-link">
                       <i class="far fa-circle nav-icon"></i>
-                      <p>Kendaraan Ringan (TKR)</p>
+                      <p>(TKR)</p>
                     </a>
                   </li>
                 </ul>
@@ -95,7 +95,7 @@
                 <a href="/staf" class="nav-link">
                   <i class="nav-icon fas fa-user"></i>
                   <p>
-                    Staf
+                    Staff
                     {{-- <i class="fas fa-angle-left right"></i> --}}
                     {{-- <span class="badge badge-info right">6</span> --}}
                   </p>
@@ -120,7 +120,7 @@
                 <a href="#" class="nav-link">
                   <i class="nav-icon fas fa-images"></i>
                   <p>
-                    Galeri
+                    Gallery
                     <i class="fas fa-angle-left right"></i>
                     {{-- <span class="badge badge-info right">6</span> --}}
                   </p>
@@ -145,7 +145,7 @@
                 <a href="#" class="nav-link">
                   <i class="nav-icon fas fa-video"></i>
                   <p>
-                    Video
+                    Videos
                     <i class="fas fa-angle-left right"></i>
                     {{-- <span class="badge badge-info right">6</span> --}}
                   </p>
@@ -170,7 +170,7 @@
                 <a href="#" class="nav-link">
                   <i class="nav-icon fas fa-envelope"></i>
                   <p>
-                    Berita
+                    News
                     <i class="fas fa-angle-left right"></i>
                     {{-- <span class="badge badge-info right">6</span> --}}
                   </p>
@@ -179,7 +179,7 @@
                   <li class="nav-item">
                     <a href="pages/layout/top-nav-sidebar.html" class="nav-link">
                       <i class="far fa-circle nav-icon"></i>
-                      <p>Kategori Berita</p>
+                      <p>News Category</p>
                     </a>
                   </li>
                   <li class="nav-item">
@@ -226,7 +226,7 @@
                 <a href="#" class="nav-link">
                   <i class="nav-icon fas fa-phone"></i>
                   <p>
-                    Kontak
+                    Contac
                     {{-- <i class="fas fa-angle-left right"></i> --}}
                     {{-- <span class="badge badge-info right">6</span> --}}
                   </p>
@@ -251,7 +251,7 @@
                 <a href="#" class="nav-link">
                   <i class="nav-icon fas fa-cogs"></i>
                   <p>
-                    Pengaturan
+                    Setting
                     <i class="fas fa-angle-left right"></i>
                     {{-- <span class="badge badge-info right">6</span> --}}
                   </p>
@@ -260,25 +260,25 @@
                   <li class="nav-item">
                     <a href="/header" class="nav-link">
                       <i class="far fa-circle nav-icon"></i>
-                      <p>Tata Letak Atas</p>
+                      <p>Header</p>
                     </a>
                   </li>
                   <li class="nav-item">
                     <a href="/footer" class="nav-link">
                       <i class="far fa-circle nav-icon"></i>
-                      <p>Tata Letak Bawah</p>
+                      <p>Footer</p>
                     </a>
                   </li>
                   <li class="nav-item">
                     <a href="/manage-user" class="nav-link">
                       <i class="far fa-circle nav-icon"></i>
-                      <p>Pengaturan Akun</p>
+                      <p>User Setting</p>
                     </a>
                   </li>
                   <li class="nav-item">
                     <a href="/sosmed" class="nav-link">
                       <i class="far fa-circle nav-icon"></i>
-                      <p>Media Sosial</p>
+                      <p>Sosial Media</p>
                     </a>
                   </li>
                 </ul>
