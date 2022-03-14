@@ -109,8 +109,8 @@
       <div class="container" data-aos="fade-up">
 
         <div class="section-header">
-          <h2>About Us</h2>
-          <p>Architecto nobis eos vel nam quidem vitae temporibus voluptates qui hic deserunt iusto omnis nam voluptas asperiores sequi tenetur dolores incidunt enim voluptatem magnam cumque fuga.</p>
+          <h2>Profile</h2>
+          <p>SMK Ash Shoheh 1 Citeureup merupakan SMK Swasta yang berada di Citeureup dekat Polsek Citeureup dan berdiri di atas Yayasan Pendidikan Islam Ash Shoheh.</p>
         </div>
 
         <div class="row g-4 g-lg-5" data-aos="fade-up" data-aos-delay="100">
@@ -122,13 +122,13 @@
           </div>
 
           <div class="col-lg-7">
-            <h3 class="pt-0 pt-lg-5">Neque officiis dolore maiores et exercitationem quae est seda lidera pat claero</h3>
+            <h3 class="pt-0 pt-lg-5">Visi, Misi dan Tujuan SMK Ash Shoheh 1 Citeurep</h3>
 
             <!-- Tabs -->
             <ul class="nav nav-pills mb-3">
-              <li><a class="nav-link active" data-bs-toggle="pill" href="#tab1">Saepe fuga</a></li>
-              <li><a class="nav-link" data-bs-toggle="pill" href="#tab2">Voluptates</a></li>
-              <li><a class="nav-link" data-bs-toggle="pill" href="#tab3">Corrupti</a></li>
+              <li><a class="nav-link active" data-bs-toggle="pill" href="#tab1">Visi</a></li>
+              <li><a class="nav-link" data-bs-toggle="pill" href="#tab2">Misi</a></li>
+              <li><a class="nav-link" data-bs-toggle="pill" href="#tab3">Tujuan</a></li>
             </ul><!-- End Tabs -->
 
             <!-- Tab Content -->
@@ -136,73 +136,100 @@
 
               <div class="tab-pane fade show active" id="tab1">
 
-                <p class="fst-italic">Consequuntur inventore voluptates consequatur aut vel et. Eos doloribus expedita. Sapiente atque consequatur minima nihil quae aspernatur quo suscipit voluptatem.</p>
+                <p class="fst-italic">Visi SMK Ash Shoheh 1 Citeureup.</p>
 
                 <div class="d-flex align-items-center mt-4">
                   <i class="bi bi-check2"></i>
-                  <h4>Repudiandae rerum velit modi et officia quasi facilis</h4>
+                  <h4>Membangun sumber daya manusia yang berkwalitas tangguh dan unggul mampu bersaing dalam dunia kerja/usaha dengan menguasai IPTEK dan IMTAQ.</h4>
                 </div>
-                <p>Laborum omnis voluptates voluptas qui sit aliquam blanditiis. Sapiente minima commodi dolorum non eveniet magni quaerat nemo et.</p>
+                {{--  <p>Laborum omnis voluptates voluptas qui sit aliquam blanditiis. Sapiente minima commodi dolorum non eveniet magni quaerat nemo et.</p>  --}}
 
-                <div class="d-flex align-items-center mt-4">
+                {{--  <div class="d-flex align-items-center mt-4">
                   <i class="bi bi-check2"></i>
-                  <h4>Incidunt non veritatis illum ea ut nisi</h4>
+                  <h4>Menyelenggarakan pendidikan dan pelatihan yang berkwalitas, disiplin dan akuntabilitas.</h4>
                 </div>
                 <p>Non quod totam minus repellendus autem sint velit. Rerum debitis facere soluta tenetur. Iure molestiae assumenda sunt qui inventore eligendi voluptates nisi at. Dolorem quo tempora. Quia et perferendis.</p>
 
                 <div class="d-flex align-items-center mt-4">
                   <i class="bi bi-check2"></i>
-                  <h4>Omnis ab quia nemo dignissimos rem eum quos..</h4>
+                  <h4>Menekankan kepada peserta didik agar mampu menguasai IPTEK sehingga dapat mengembangkan kompetensi diri yang dapat bermanfaat bagi dirinya, kelurga dan masyarakat.</h4>
                 </div>
                 <p>Eius alias aut cupiditate. Dolor voluptates animi ut blanditiis quos nam. Magnam officia aut ut alias quo explicabo ullam esse. Sunt magnam et dolorem eaque magnam odit enim quaerat. Vero error error voluptatem eum.</p>
+                <div class="d-flex align-items-center mt-4">
+                  <i class="bi bi-check2"></i>
+                  <h4>Menekankan kepada peserta didik sebagai sumber daya manusia yang berbudi pekerti, beriman dan bertaqwa kepada Allah SWT.</h4>
+                </div>
+
+                <div class="d-flex align-items-center mt-4">
+                  <i class="bi bi-check2"></i>
+                  <h4>Memberikan layanan pendidikan kejuruan kepada lingkungan sekitar</h4>
+                </div>  --}}
 
               </div><!-- End Tab 1 Content -->
 
               <div class="tab-pane fade show" id="tab2">
 
-                <p class="fst-italic">Consequuntur inventore voluptates consequatur aut vel et. Eos doloribus expedita. Sapiente atque consequatur minima nihil quae aspernatur quo suscipit voluptatem.</p>
+                <p class="fst-italic">Misi SMK Ash Shoheh 1 Citeureup.</p>
 
                 <div class="d-flex align-items-center mt-4">
                   <i class="bi bi-check2"></i>
-                  <h4>Repudiandae rerum velit modi et officia quasi facilis</h4>
+                  <h4>Menyiapkan peserta didik dalam mengembangkan ilmu dan pengetahuan agar mampu bersaing dalam dunia kerja/dunia usaha.</h4>
                 </div>
-                <p>Laborum omnis voluptates voluptas qui sit aliquam blanditiis. Sapiente minima commodi dolorum non eveniet magni quaerat nemo et.</p>
+                {{--  <p>Laborum omnis voluptates voluptas qui sit aliquam blanditiis. Sapiente minima commodi dolorum non eveniet magni quaerat nemo et.</p>  --}}
 
                 <div class="d-flex align-items-center mt-4">
                   <i class="bi bi-check2"></i>
-                  <h4>Incidunt non veritatis illum ea ut nisi</h4>
+                  <h4>Menyelenggarakan pendidikan dan pelatihan yang berkwalitas, disiplin dan akuntabilitas.</h4>
                 </div>
-                <p>Non quod totam minus repellendus autem sint velit. Rerum debitis facere soluta tenetur. Iure molestiae assumenda sunt qui inventore eligendi voluptates nisi at. Dolorem quo tempora. Quia et perferendis.</p>
+                {{--  <p>Non quod totam minus repellendus autem sint velit. Rerum debitis facere soluta tenetur. Iure molestiae assumenda sunt qui inventore eligendi voluptates nisi at. Dolorem quo tempora. Quia et perferendis.</p>  --}}
 
                 <div class="d-flex align-items-center mt-4">
                   <i class="bi bi-check2"></i>
-                  <h4>Omnis ab quia nemo dignissimos rem eum quos..</h4>
+                  <h4>Menekankan kepada peserta didik agar mampu menguasai IPTEK sehingga dapat mengembangkan kompetensi diri yang dapat bermanfaat bagi dirinya, kelurga dan masyarakat.</h4>
                 </div>
-                <p>Eius alias aut cupiditate. Dolor voluptates animi ut blanditiis quos nam. Magnam officia aut ut alias quo explicabo ullam esse. Sunt magnam et dolorem eaque magnam odit enim quaerat. Vero error error voluptatem eum.</p>
+                {{--  <p>Eius alias aut cupiditate. Dolor voluptates animi ut blanditiis quos nam. Magnam officia aut ut alias quo explicabo ullam esse. Sunt magnam et dolorem eaque magnam odit enim quaerat. Vero error error voluptatem eum.</p>  --}}
+                <div class="d-flex align-items-center mt-4">
+                  <i class="bi bi-check2"></i>
+                  <h4>Menekankan kepada peserta didik sebagai sumber daya manusia yang berbudi pekerti, beriman dan bertaqwa kepada Allah SWT.</h4>
+                </div>
+
+                <div class="d-flex align-items-center mt-4">
+                  <i class="bi bi-check2"></i>
+                  <h4>Memberikan layanan pendidikan kejuruan kepada lingkungan sekitar</h4>
+                </div>
 
               </div><!-- End Tab 2 Content -->
 
               <div class="tab-pane fade show" id="tab3">
 
-                <p class="fst-italic">Consequuntur inventore voluptates consequatur aut vel et. Eos doloribus expedita. Sapiente atque consequatur minima nihil quae aspernatur quo suscipit voluptatem.</p>
+                <p class="fst-italic">Tujuan SMK Ash Shoheh 1 Citeureup.</p>
 
                 <div class="d-flex align-items-center mt-4">
                   <i class="bi bi-check2"></i>
-                  <h4>Repudiandae rerum velit modi et officia quasi facilis</h4>
+                  <h4>Mendidik sumber daya manusia yang kompeten agar mampu memenuhi kebutuhan lowongan kerja.</h4>
                 </div>
-                <p>Laborum omnis voluptates voluptas qui sit aliquam blanditiis. Sapiente minima commodi dolorum non eveniet magni quaerat nemo et.</p>
+                {{--  <p>Laborum omnis voluptates voluptas qui sit aliquam blanditiis. Sapiente minima commodi dolorum non eveniet magni quaerat nemo et.</p>  --}}
 
                 <div class="d-flex align-items-center mt-4">
                   <i class="bi bi-check2"></i>
-                  <h4>Incidunt non veritatis illum ea ut nisi</h4>
+                  <h4>Mewujudkan lembaga pendidikan yang akuntabel, berstandarr Nasional dan Internasional.</h4>
                 </div>
-                <p>Non quod totam minus repellendus autem sint velit. Rerum debitis facere soluta tenetur. Iure molestiae assumenda sunt qui inventore eligendi voluptates nisi at. Dolorem quo tempora. Quia et perferendis.</p>
+                {{--  <p>Non quod totam minus repellendus autem sint velit. Rerum debitis facere soluta tenetur. Iure molestiae assumenda sunt qui inventore eligendi voluptates nisi at. Dolorem quo tempora. Quia et perferendis.</p>  --}}
 
                 <div class="d-flex align-items-center mt-4">
                   <i class="bi bi-check2"></i>
-                  <h4>Omnis ab quia nemo dignissimos rem eum quos..</h4>
+                  <h4>Menyiapkan peserta didik sebagai calon tenaga kerja yang siap latih dalam memenuhi kebutuhan tenaga kerja bagi dunia Usaha/Industri.</h4>
                 </div>
-                <p>Eius alias aut cupiditate. Dolor voluptates animi ut blanditiis quos nam. Magnam officia aut ut alias quo explicabo ullam esse. Sunt magnam et dolorem eaque magnam odit enim quaerat. Vero error error voluptatem eum.</p>
+                {{--  <p>Eius alias aut cupiditate. Dolor voluptates animi ut blanditiis quos nam. Magnam officia aut ut alias quo explicabo ullam esse. Sunt magnam et dolorem eaque magnam odit enim quaerat. Vero error error voluptatem eum.</p>  --}}
+                <div class="d-flex align-items-center mt-4">
+                  <i class="bi bi-check2"></i>
+                  <h4>Memberikan kesempatan kepada masyarakat sekitar terutama lulusan M.Ts/SMP untuk dapat melanjutkan pendidikan kejenjang sekolah kejuruan yang terjangkau.</h4>
+                </div>
+
+                <div class="d-flex align-items-center mt-4">
+                  <i class="bi bi-check2"></i>
+                  <h4>Memberdayakan sumber daya yang ada untuk meningkatkan layanan Pendidikan kepada masyarakat.</h4>
+                </div>
 
               </div><!-- End Tab 3 Content -->
 

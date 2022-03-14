@@ -23,10 +23,10 @@ Route::get('/team', function () {
     return view('pages.team');
 });
 Route::get('/image-tpm', function () {
-    return view('pages.galery.tpm.image-tpm');
+    return view('pages.galery.images.image-tpm');
 });
 Route::get('/image-tkr', function () {
-    return view('pages.galery.tkr.image-tkr');
+    return view('pages.galery.images.image-tkr');
 });
 Route::get('/jurusan-tpm', function () {
     return view('pages.jurusan.jurusan-tpm');
@@ -70,9 +70,9 @@ Route::get('/gallery', function () {
 Route::get('/news', function () {
     return view('backend.pages.news');
 });
-Route::get('/alumni', function () {
-    return view('backend.pages.alumni');
-});
+// Route::get('/alumni', function () {
+//     return view('backend.pages.alumni');
+// });
 Route::get('/contact-person', function () {
     return view('backend.pages.contact');
 });
