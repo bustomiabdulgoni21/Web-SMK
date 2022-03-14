@@ -61,6 +61,7 @@
         </div>
       </div>
     </div><!-- End Carousel Item -->
+    <marquee title="Ini Muncul Saat Hover" behavior="alternate" onmouseover="this.stop()" onmouseout="this.start()" direction="right"><a href="https://posciety.com" target="_blank"><h3>Selamat Datang di SMK Ash Shoheh 1 Citeureup | Teknik Pemesinan (TKR) | Teknik Kendaraan Ringan (TKR)</h3></a></marquee>
 
     <a class="carousel-control-prev" href="#hero" role="button" data-bs-slide="prev">
       <span class="carousel-control-prev-icon bi bi-chevron-left" aria-hidden="true"></span>
@@ -86,16 +87,16 @@
           <div class="col-xl-6 col-md-2 d-flex" data-aos="zoom-out" data-aos-delay="100">
             <div class="service-item position-relative">
               <div class="icon"><i class="bi bi-bounding-box-circles icon"></i></div>
-              <h4><a href="" class="stretched-link">Teknik Pemesinan (TPM)</a></h4>
-              <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore</p>
+              <h4><a href="/jurusan-tpm">Teknik Pemesinan (TPM)</a></h4>
+              <p>Mengenai Jurusan Teknik Pemesinan (TPM) SMK Ash Shoheh 1 Citeureup</p>
             </div>
           </div><!-- End Service Item -->
 
           <div class="col-xl-6 col-md-2 d-flex" data-aos="zoom-out" data-aos-delay="100">
             <div class="service-item position-relative">
               <div class="icon"><i class="bi bi-calendar4-week icon"></i></div>
-              <h4><a href="" class="stretched-link">Teknik Kendaraan Ringan (TKR)</a></h4>
-              <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia</p>
+              <h4><a href="/jurusan-tkr">Teknik Kendaraan Ringan (TKR)</a></h4>
+              <p>Mengenai Jurusan Teknik Kendaraan Ringan (TKR) SMK Ash Shoheh 1 Citeureup</p>
             </div>
           </div><!-- End Service Item -->
 
@@ -269,7 +270,7 @@
 
         <div class="row g-0">
           <div class="col-lg-6 video-play position-relative">
-            <a href="https://www.youtube.com/watch?v=LXb3EKWsInQ" class="glightbox play-btn"></a>
+            <a href="https://www.youtube.com/watch?v=hV3FiNTa3eQ" class="glightbox play-btn"></a>
           </div>
           <div class="col-lg-6">
             <div class="content d-flex flex-column justify-content-center h-100">
@@ -297,8 +298,8 @@
       <div class="container" data-aos="fade-up">
 
         <div class="section-header">
-          <h2>Our Services</h2>
-          <p>Ea vitae aspernatur deserunt voluptatem impedit deserunt magnam occaecati dssumenda quas ut ad dolores adipisci aliquam.</p>
+          <h2>Layanan SMK Ash Shoheh 1</h2>
+          {{--  <p>Ea vitae aspernatur deserunt voluptatem impedit deserunt magnam occaecati dssumenda quas ut ad dolores adipisci aliquam.</p>  --}}
         </div>
 
         <div class="row gy-5">
@@ -306,14 +307,14 @@
           <div class="col-xl-4 col-md-6" data-aos="zoom-in" data-aos-delay="100">
             <div class="service-item">
               <div class="img">
-                <img src="{{ asset('templates/frontend') }}/assets/img/services-1.jpg" class="img-fluid" alt="">
+                <img src="{{ asset('templates/frontend') }}/assets/img/pemesinan.jpg" class="img-fluid" alt="">
               </div>
               <div class="details position-relative">
-                <div class="icon">
+                {{--  <div class="icon">
                   <i class="bi bi-activity"></i>
-                </div>
+                </div>  --}}
                 <a href="#" class="stretched-link">
-                  <h3>Nesciunt Mete</h3>
+                  <h3>Lab Pemesinan</h3>
                 </a>
                 <p>Provident nihil minus qui consequatur non omnis maiores. Eos accusantium minus dolores iure perferendis.</p>
               </div>
@@ -323,14 +324,14 @@
           <div class="col-xl-4 col-md-6" data-aos="zoom-in" data-aos-delay="100">
             <div class="service-item">
               <div class="img">
-                <img src="{{ asset('templates/frontend') }}/assets/img/services-2.jpg" class="img-fluid" alt="">
+                <img src="{{ asset('templates/frontend') }}/assets/img/mobil_praktik_tkr.jpg" class="img-fluid" alt="">
               </div>
               <div class="details position-relative">
-                <div class="icon">
+                {{--  <div class="icon">
                   <i class="bi bi-broadcast"></i>
-                </div>
+                </div>  --}}
                 <a href="#" class="stretched-link">
-                  <h3>Eosle Commodi</h3>
+                  <h3>Mobil Praktik (TKR)</h3>
                 </a>
                 <p>Ut autem aut autem non a. Sint sint sit facilis nam iusto sint. Libero corrupti neque eum hic non ut nesciunt dolorem.</p>
               </div>
