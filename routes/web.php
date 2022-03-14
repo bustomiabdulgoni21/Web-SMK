@@ -58,6 +58,12 @@ Route::get('/misi-create', function () {
 Route::get('/tujuan', function () {
     return view('backend.pages.profile.tujuan.tujuan');
 });
+Route::get('/join-psb', function () {
+    return view('pages.psb.join-psb');
+});
+Route::get('/formulir', function () {
+    return view('pages.psb.formulir');
+});
 Route::get('/jurusan', function () {
     return view('backend.pages.jurusan');
 });

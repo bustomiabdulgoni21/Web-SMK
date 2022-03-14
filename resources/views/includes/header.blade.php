@@ -27,6 +27,12 @@
           </li>
           <li><a href="/blog">News</a></li>
           <li><a href="/alumni">Alumni</a></li>
+          <li class="dropdown"><a href="#"><span>PSB</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
+            <ul>
+              <li><a href="/formulir">Formulir PSB</a></li>
+              <li><a href="/join-psb">Join PSB</a></li>
+            </ul>
+          </li>
           <li><a class="nav-link scrollto" href="/contact">Contact</a></li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle d-none"></i>
