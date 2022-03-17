@@ -11,7 +11,7 @@
       </div>
       <div class="container">
           <center>
-              <img src="{{ asset('templates/frontend') }}/assets/img/join.jpg">
+              <img src="{{ asset('templates/frontend') }}/assets/img/join.jpg" width="360" height="640">
           </center>
       </div>
     

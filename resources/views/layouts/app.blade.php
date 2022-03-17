@@ -11,7 +11,9 @@
 
     @include('includes.googlefonts')
 
+    @stack('before-style')
     @include('includes.style')
+    @stack('after-style')
 
 </head>
 
@@ -27,8 +29,9 @@
 
   <div id="preloader"></div>
 
+  @stack('before-script')
   @include('includes.script')
-
+  @stack('after-script')
 </body>
 
 </html>

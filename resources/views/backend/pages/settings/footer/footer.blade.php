@@ -385,7 +385,7 @@
                 <button onclick="return confirm('Yakin hapus ?')" type="submit" class="btn btn-danger btn-sm ml-2"><i class="fas fa-trash fa-fw"></i></button>
                 
             </td>
-          </tr>
+          </tr> 
           <tr>
             <th scope="row">2</th>
             <td>Jacob</td>
